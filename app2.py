@@ -2,7 +2,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
 #
-import sqlite3
+import sqlite3 
 
 # je demande à la bibliotheque sqlite de me donner une connection
 # sur ma base de données
